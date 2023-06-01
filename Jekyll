@@ -1,0 +1,1 @@
+gem install jekyll-gist jekyll-coffeescript jekyll-remote-theme some-other-jekyll-plugin
